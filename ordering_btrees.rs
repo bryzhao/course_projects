@@ -1,6 +1,6 @@
 // Bryan Zhao
-// ECS 40, Fall 2017
-// Homework 4
+// Fall 2017
+// B-tree exercise in Rust.
 
 // tree definition
 pub struct Tree<T> {
