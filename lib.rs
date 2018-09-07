@@ -1,6 +1,6 @@
 // Bryan Zhao
-// ECS 40, Fall 2017
-// Homework 5
+// Fall 2017
+// More advanced b-tree search algorithms in Rust.
 
 // tree definition
 #[derive(Debug)]
