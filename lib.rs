@@ -1,5 +1,6 @@
 // Bryan Zhao
-// ECS 40, Fall Quarter '17
+// Fall 2017
+// Matrix calculator exercise in Rust.
 
 use std::{ops, fmt};
 
