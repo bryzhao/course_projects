@@ -1,4 +1,4 @@
 # Projects in C, Rust, and MATLAB
-Misc. works from courses and side projects. Includes projects in C (linked list project), Rust (B-Tree implementations + Matrix calculator), and MATLAB (solar panel and wind turbine simulation GUI). 
+Various projects from courses, research, and personal interests. Includes projects in C (linked list text search), Rust (B-Tree implementations for sorting + Matrix calculator), and MATLAB (solar panel placement simulation overlay GUI). 
 
 Contact: bryanzhao@cmu.edu.
